@@ -1,0 +1,65 @@
+body {
+	background-image: url("images\space.png")
+}
+
+h1 {
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  color: #e9d316
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+table {
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 30px;
+  margin-left: auto; 
+  margin-right: auto;
+  text-align: center;
+  width: auto;
+}
+
+th, td {
+  padding: 15px;
+}
+
+
+th:nth-child(1) {
+  color: #e9d316;
+}
+
+th:nth-child(2){
+	color: #e5e5e5;
+}
+
+th:nth-child(3){
+	color: #ffb433;
+}
+
+th:nth-child(4){
+	color: #008080;
+}
+
+th:nth-child(5){
+	color: #ad6242;
+}
+
+
+td:nth-child(2){
+	color: #e5e5e5;
+}
+
+td:nth-child(3){
+	color: #ffb433;
+}
+
+td:nth-child(4){
+	color: #008080;
+}
+
+td:nth-child(5){
+	color: #ad6242;
+}
